@@ -13,7 +13,7 @@
 ## 🧠 Sobre mim
 Sou estudante de Ciência da Computação com interesse em desenvolvimento web, especialmente no **Front-end**.  
 Gosto de criar interfaces modernas, responsivas e com boa experiência para o usuário.  
-Tenho base sólida em programação e banco de dados e sigo expandindo meus conhecimentos em tecnologias web.
+Atualmente estudo e desenvolvo projetos utilizando **React** e **Tailwind CSS**.
 
 ---
 
@@ -22,8 +22,9 @@ Tenho base sólida em programação e banco de dados e sigo expandindo meus conh
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" height="45" alt="TailWind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
@@ -46,15 +47,10 @@ Tenho base sólida em programação e banco de dados e sigo expandindo meus conh
 ---
 
 ## 🎯 Objetivos
-- Evoluir como **Desenvolvedor Front-end**
-- Criar projetos práticos para portfólio
-- Aprender frameworks modernos (React, etc.)
-- Aplicar boas práticas de código e UI/UX
-
----
-
-## 📫 Contato
-📌 Em breve adicionarei minhas redes sociais e formas de contato aqui.
+- Me consolidar como **Desenvolvedor Front-end**
+- Criar aplicações modernas com **React + Tailwind**
+- Desenvolver projetos para portfólio
+- Evoluir em boas práticas, performance e UI/UX
 
 ---
 
