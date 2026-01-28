@@ -52,10 +52,4 @@ Atualmente estudo e desenvolvo projetos utilizando **React** e **Tailwind CSS**.
 - Desenvolver projetos para portfólio
 - Evoluir em boas práticas, performance e UI/UX
 
----
 
-<div align="center">
-
-✨ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.* ✨
-
-</div>
