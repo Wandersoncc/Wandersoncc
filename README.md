@@ -41,7 +41,8 @@ Atualmente estudo e desenvolvo projetos utilizando **React** e **Tailwind CSS**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wandersoncc&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wandersoncc)
+![GitHub Streak](https://streak-stats.demolab.com?user=Wandersoncc)
+
 
 
 </div>
