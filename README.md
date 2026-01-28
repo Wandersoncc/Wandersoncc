@@ -36,11 +36,13 @@ Atualmente estudo e desenvolvo projetos utilizando **React** e **Tailwind CSS**.
 
 <div align="center">
 
-![Wanderson GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wandersoncc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wandersoncc&show_icons=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wandersoncc&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Wandersoncc&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wandersoncc)
+
 
 </div>
 
